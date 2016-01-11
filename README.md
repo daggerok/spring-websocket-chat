@@ -1,5 +1,7 @@
-spring-websocket-chat
+spring-websocket-chat [![build](https://travis-ci.org/daggerok/spring-websocket-chat.svg?branch=master)](https://travis-ci.org/daggerok/spring-websocket-chat)
 =====================
+
+Fork
 
 get rabbitmq
 ```shell
