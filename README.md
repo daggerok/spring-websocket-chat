@@ -3,7 +3,7 @@ spring-websocket-chat [![build](https://travis-ci.org/daggerok/spring-websocket-
 
 fork
 
-### get and running rabbitmq
+#### get and running rabbitmq
 
 ```shell
 $ wget -qO-  http://www.rabbitmq.com/releases/rabbitmq-server/v3.6.0/rabbitmq-server-generic-unix-3.6.0.tar.xz | tar -xvf-
@@ -12,23 +12,23 @@ $ gradle npm
 $ gradle bootRun
 $ open http://localhost:8080
 ```
-### build app
+#### build app
 
 ```shell
 gradle build
 ```
 
-### running the app
+#### running the app
 
 ```shell
 gradle bootRun
 ```
 
-### Chat application using AngularJS and Spring WebSockets (STOMP over WebSockets)
+#### Chat application using AngularJS and Spring WebSockets (STOMP over WebSockets)
 
 ![Spring WebSocket Chat](http://www.sergialmar.com/wp-content/uploads/2014/09/spring-websocket-chat-room.png "Spring WebSocket Chat")
 
-## Features
+### Features
 - Built with Spring Boot
 - User login
 - Chat message broadcasting and private messages (filtering profanities)
