@@ -7,4 +7,5 @@ before_install:
   - nvm install 5
   - nvm use 5
 script:
+  - ./gradlew npm
   - ./gradlew build

@@ -5,7 +5,7 @@ get rabbitmq
 ```shell
 $ wget -qO-  http://www.rabbitmq.com/releases/rabbitmq-server/v3.6.0/rabbitmq-server-generic-unix-3.6.0.tar.xz | tar -xvf-
 $ rabbitmq_server-3.6.0/sbin/rabbitmq-server
-$ npm start
+$ gradle npm
 $ gradle bootRun
 $ open http://localhost:8080
 ```
