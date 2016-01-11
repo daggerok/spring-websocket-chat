@@ -1,6 +1,15 @@
 spring-websocket-chat
 =====================
 
+get rabbitmq
+```shell
+$ wget -qO-  http://www.rabbitmq.com/releases/rabbitmq-server/v3.6.0/rabbitmq-server-generic-unix-3.6.0.tar.xz | tar -xvf-
+$ rabbitmq_server-3.6.0/sbin/rabbitmq-server
+$ npm start
+$ gradle bootRun
+$ open http://localhost:8080
+```
+
 [![Join the chat at https://gitter.im/salmar/spring-websocket-chat](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/salmar/spring-websocket-chat?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 [![Build Status](https://travis-ci.org/salmar/spring-websocket-chat.svg?branch=master)](https://travis-ci.org/salmar/spring-websocket-chat)
 

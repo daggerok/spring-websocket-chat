@@ -10,3 +10,7 @@
 */build
 /bin
 */bin
+.idea/
+node_modules/
+rabbitmq_server*/
+src/main/resources/static/lib/

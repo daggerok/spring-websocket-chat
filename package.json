@@ -1,0 +1,24 @@
+{
+  "name": "spring-websocket-chat",
+  "version": "1.0.0",
+  "description": "spring-websocket-chat =====================",
+  "main": "index.js",
+  "scripts": {
+    "bower": "bower",
+    "start": "npm run bower install",
+    "prestart": "npm install"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/daggerok/spring-websocket-chat.git"
+  },
+  "author": "Maksim Kostromin",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/daggerok/spring-websocket-chat/issues"
+  },
+  "homepage": "https://github.com/daggerok/spring-websocket-chat#readme",
+  "devDependencies": {
+    "bower": "^1.7.2"
+  }
+}
