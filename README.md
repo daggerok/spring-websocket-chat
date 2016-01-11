@@ -1,7 +1,7 @@
 spring-websocket-chat [![build](https://travis-ci.org/daggerok/spring-websocket-chat.svg?branch=master)](https://travis-ci.org/daggerok/spring-websocket-chat)
 =====================
 
-fork
+this is just a fork with minor sproject build structure improvements...
 
 #### get and running rabbitmq
 
