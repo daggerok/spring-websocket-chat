@@ -24,9 +24,10 @@ gradle build
 gradle bootRun
 ```
 
-Chat application using AngularJS and Spring WebSockets (STOMP over WebSockets)
+## Chat application using AngularJS and Spring WebSockets (STOMP over WebSockets)
 
 ![Spring WebSocket Chat](http://www.sergialmar.com/wp-content/uploads/2014/09/spring-websocket-chat-room.png "Spring WebSocket Chat")
+
 ## Features
 - Built with Spring Boot
 - User login
